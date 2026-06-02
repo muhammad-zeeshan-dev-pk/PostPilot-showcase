@@ -3,7 +3,7 @@ name: 🐛 Bug Report
 about: Report a bug found in PostPilot live demo
 title: "[BUG] "
 labels: bug
-assignees: mzstudiospk
+assignees: muhammad-zeeshan-dev-pk
 ---
 
 ## 🐛 Bug Description

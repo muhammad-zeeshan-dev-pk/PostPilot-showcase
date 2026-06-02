@@ -3,7 +3,7 @@ name: 💡 Feature Request
 about: Suggest a new feature or improvement for PostPilot
 title: "[FEATURE] "
 labels: enhancement
-assignees: mzstudiospk
+assignees: muhammad-zeeshan-dev-pk
 ---
 
 ## 💡 Feature Description
@@ -78,6 +78,6 @@ _Example: I'm always frustrated when [...]_
 
 **Thank you for helping shape the future of PostPilot!** 🚀
 
-> **Note**: All feature requests are reviewed by the MZ Studios team. Approved features are added to our [roadmap](https://github.com/mzstudiospk/PostPilot-showcase#-roadmap).
+> **Note**: All feature requests are reviewed by the MZ Studios team. Approved features are added to our [roadmap](https://github.com/muhammad-zeeshan-dev-pk/PostPilot-showcase#-roadmap).
 
 > **Want a custom AI tool built for your business?** Contact us at zeeshanofficial337@gmail.com

@@ -17,7 +17,7 @@ Show your support by starring the repo!
 ### 🐛 Report Bugs
 
 Found an issue with the [live demo](https://postpilot-io.vercel.app)?
-[Open an issue](https://github.com/mzstudiospk/PostPilot-showcase/issues) with:
+[Open an issue](https://github.com/muhammad-zeeshan-dev-pk/PostPilot-showcase/issues) with:
 
 - Clear description of the bug
 - Steps to reproduce
@@ -26,7 +26,7 @@ Found an issue with the [live demo](https://postpilot-io.vercel.app)?
 
 ### 💡 Suggest Features
 
-Have an idea? [Open a discussion](https://github.com/mzstudiospk/PostPilot-showcase/discussions)
+Have an idea? [Open a discussion](https://github.com/muhammad-zeeshan-dev-pk/PostPilot-showcase/discussions)
 or contact us directly.
 
 ### 📧 Business Inquiries
@@ -49,7 +49,7 @@ or contact us directly.
 - ✅ Using the [live demo](https://postpilot-io.vercel.app)
 - ✅ Sharing PostPilot with others
 - ✅ Reporting bugs and suggesting improvements
-- ✅ Following [@mzstudiospk](https://github.com/mzstudiospk) for updates
+- ✅ Following [@muhammad-zeeshan-dev-pk](https://github.com/muhammad-zeeshan-dev-pk) for updates
 
 ## 🎨 About PostPilot
 
@@ -70,7 +70,7 @@ Need a custom AI tool, mobile app, or web platform? Let's build something amazin
 - 📧 **Email**: zeeshanofficial337@gmail.com
 - 💼 **LinkedIn**: [Muhammad Zeeshan](https://linkedin.com/in/muhammadzeeshan-dev)
 - 📘 **Facebook**: [@MZStudiosPK](https://facebook.com/MZStudiosPK)
-- 💻 **GitHub**: [@mzstudiospk](https://github.com/mzstudiospk)
+- 💻 **GitHub**: [@muhammad-zeeshan-dev-pk](https://github.com/muhammad-zeeshan-dev-pk)
 
 ## 📜 Code of Conduct
 

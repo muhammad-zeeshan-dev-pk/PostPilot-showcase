@@ -27,9 +27,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/mzstudiospk/PostPilot?style=for-the-badge&color=F39C12" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mzstudiospk/PostPilot?style=for-the-badge&color=2E86DE" alt="Forks"/>
-  <img src="https://img.shields.io/github/last-commit/mzstudiospk/PostPilot?style=for-the-badge&color=10B981" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/stars/muhammad-zeeshan-dev-pk/PostPilot?style=for-the-badge&color=F39C12" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/muhammad-zeeshan-dev-pk/PostPilot?style=for-the-badge&color=2E86DE" alt="Forks"/>
+  <img src="https://img.shields.io/github/last-commit/muhammad-zeeshan-dev-pk/PostPilot?style=for-the-badge&color=10B981" alt="Last Commit"/>
   <img src="https://img.shields.io/badge/PRs-Welcome-FF6B9D?style=for-the-badge" alt="PRs Welcome"/>
 </p>
 
@@ -359,7 +359,7 @@ postpilot/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/mzstudiospk/PostPilot.git
+git clone https://github.com/muhammad-zeeshan-dev-pk/PostPilot.git
 cd PostPilot
 ```
 
@@ -552,7 +552,7 @@ yarn build && yarn start
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/mzstudiospk" width="120" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/muhammad-zeeshan-dev-pk" width="120" style="border-radius: 50%;" />
 
 ### **Muhammad Zeeshan**
 
@@ -561,7 +561,7 @@ yarn build && yarn start
 🇵🇰 Multan, Pakistan • 🌍 Working Globally
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E86DE?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-zeeshan-dev.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mzstudiospk)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-zeeshan-dev-pk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadzeeshan-dev)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/MZStudiosPK)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshanofficial337@gmail.com)
@@ -587,8 +587,8 @@ For licensing inquiries, please contact: [zeeshanofficial337@gmail.com](mailto:z
 If you find PostPilot useful, please consider:
 
 - ⭐ **Star this repository**
-- 🐛 **Report bugs** via [Issues](https://github.com/mzstudiospk/PostPilot/issues)
-- 💡 **Suggest features** via [Discussions](https://github.com/mzstudiospk/PostPilot/discussions)
+- 🐛 **Report bugs** via [Issues](https://github.com/muhammad-zeeshan-dev-pk/PostPilot/issues)
+- 💡 **Suggest features** via [Discussions](https://github.com/muhammad-zeeshan-dev-pk/PostPilot/discussions)
 - 🔄 **Share with your network**
 
 ---
